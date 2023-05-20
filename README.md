@@ -1,6 +1,11 @@
 # Trend Tracker Concept
 
-Join our [WiKi](https://github.com/denisps/trendtracker/wiki/Concept-of-the-Trend-Tracker) to discuse and brainstorm the implementation of the Content Tracker
+World wide distributed trend and meta-tag tracking
+World wide distributed trend and meta-tag tracking.
+
+This is an open colaboration initiative to create a fully decentralized base trend and meta-tag tracking platform on top of which a fully distributed Twitter/Youtube/Google/Email/Facebook/Reddit/Web3 alternatives could be implemented.
+
+Join our wi[WiKi](https://github.com/denisps/trendtracker/wiki/Concept-of-the-Trend-Tracker)ki to colaborate, discuss, and brainstorm the concept, chalanges, volnerabilities, proof of concept, and integration of the Trend Tracker.
 
 ## Types of trends and meta-tags
 To assist in the creation of the distributed services listed above the platform must be able to track the following items:
