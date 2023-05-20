@@ -1,8 +1,9 @@
-# Welcome to the Trend Tracker WiKi
+# Trend Tracker Concept
+
+Join our [WiKi](https://github.com/denisps/trendtracker/wiki/Concept-of-the-Trend-Tracker) to discuse and brainstorm the implementation of the Content Tracker
 
 ## Types of trends and meta-tags
-
-### To assist in the creation of the distributed services listed above the platform must be able to track the following items:
+To assist in the creation of the distributed services listed above the platform must be able to track the following items:
 1) IDs
 2) Channel IDs
 3) Describers
